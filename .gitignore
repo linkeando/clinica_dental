@@ -15,7 +15,7 @@ build/
 *.egg
 
 # Local development configuration
-.idea/
+*.idea/
 
 # Environments
 .env
